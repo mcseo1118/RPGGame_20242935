@@ -183,8 +183,6 @@ public class test01 {
 		}
 		// 포션 구매 후 남은 금액 출력
 		if (ok) {
-			System.out.println("포션 상점에서 물건을 구매 시도하는 중입니다.");
-			System.out.println("구입이 완료되었습니다.");
 			System.out.println(hero_money + "원 남았습니다.");
 
 			System.out.println("********************");
